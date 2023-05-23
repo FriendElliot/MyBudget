@@ -1,5 +1,5 @@
 {
-  "name": "ontrack",
+  "name": "MyBudget",
   "private": true,
   "dependencies": {
     "@babel/plugin-transform-runtime": "^7.15.0",
